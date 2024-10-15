@@ -3,7 +3,7 @@
 @section('title', 'Daftar Barang')
 
 @section('content')
-<div class="container">
+<div class="container">!
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
@@ -22,7 +22,7 @@
                         <table class="table table-bordered table-striped">
                             <thead class="bg-primary text-white">
                                 <tr>
-                                    <th scope="col">Nama Barang</th>
+                                    <th scope="col">Nama Barang test</th>
                                     <th scope="col">Jumlah</th>
                                     <th scope="col">Tanggal Masuk</th>
                                 </tr>
